@@ -19,4 +19,4 @@ We are a group of friends, hailing from Pennsylvania!
 
 @Icedraggon13 - Fernando Hernandez, B.S. Information Technology @ Kutztown University '27
 
-@Biinoo2 - Brian Nguyen, B.S. @ Molecular Biology, Minoring in Bioinformatics @ Lehigh University '27
+@Biinoo2 - Brian Nguyen, B.S. Molecular Biology, Minoring in Bioinformatics @ Lehigh University '27
