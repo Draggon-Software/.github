@@ -18,3 +18,5 @@ We are a group of friends, hailing from Pennsylvania!
 @Justin7624 - Justin Allen, B.S. Computer Science @ Kutztown University '27
 
 @Icedraggon13 - Fernando Hernandez, B.S. Information Technology @ Kutztown University '27
+
+@Biinoo2 - Brian Nguyen, B.S. @ Molecular Biology, Minoring in Bioinformatics @ Lehigh University '27
