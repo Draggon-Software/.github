@@ -13,10 +13,10 @@
 
 We are a group of friends, hailing from Pennsylvania!
 
-@Lyxke - Alain-Kyle Alfonso, B.S.ED. Secondary Education: Computer Science @ Kutztown University '27
+@Lyxke - Alain-Kyle Alfonso, B.S.ED. Secondary Education: Computer Science @ Kutztown University Fall '25
 
-@Justin7624 - Justin Allen, B.S. Computer Science @ Kutztown University '27
+@Justin7624 - Justin Allen, B.S. Computer Science @ Kutztown University Spring '25
 
-@Icedraggon13 - Fernando Hernandez, B.S. Information Technology @ Kutztown University '27
+@Icedraggon13 - Fernando Hernandez, B.S. Information Technology @ Kutztown University Spring '25
 
 @Biinoo2 - Brian Nguyen, B.S. Molecular Biology, Minoring in Bioinformatics @ Lehigh University '27
